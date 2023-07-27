@@ -36,7 +36,7 @@ namespace JackMD\UpdateNotifier;
 use JackMD\UpdateNotifier\task\UpdateNotifyTask;
 use pocketmine\Server;
 
-class UpdateNotifier {
+class UpdateNotifier{
 
 	/**
 	 * Submits an async task which then checks if a new version for the plugin is available.
